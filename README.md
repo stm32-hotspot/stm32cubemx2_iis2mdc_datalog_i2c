@@ -77,7 +77,7 @@ No specific debug tips.
 
 ## __6. See Also__
 
-More information about IIS2MDC part driver can be found in the [IIS2MDC Part Driver](https://dev.st.com/stm32cube-docs/part-drivers-iis2mdc/1.0.0/en/index.html)
+More information about IIS2MDC part driver can be found in the [IIS2MDC Part Driver](https://dev.st.com/stm32cube-docs/part-drivers-iis2mdc/1.1.0/en/index.html)
 
 More information about the STM32 ecosystem can be found in the [STM32 MCU Developer Zone](https://www.st.com/content/st_com/en/stm32-mcu-developer-zone.html).
 
